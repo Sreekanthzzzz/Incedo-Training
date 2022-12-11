@@ -1,0 +1,10 @@
+installs
+1. npm install react-router-dom
+2. npm install @mui/material @emotion/react @emotion/styled @mui/icons-material --legacy-peer-deps
+3. npm install formik --legacy-peer-deps
+4. npm install yup --legacy-peer-deps
+5. npm install jquery --legacy-peer-deps
+6. npm install rsuite --legacy-peer-deps
+7. npm install react-burger-menu --legacy-peer-deps
+8. Bootstrap
+9. emailjs

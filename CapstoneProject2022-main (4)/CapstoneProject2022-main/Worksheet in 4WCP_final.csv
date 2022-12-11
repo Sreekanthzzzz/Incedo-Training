@@ -1,0 +1,510 @@
+Timesheet Number,Resource Name,Resource ID,Period Start,Period End,Hours,H/L hours,Afternoon Shift days,Night Shift days,Approval Status,Project Name,Project Manager,Manager ID,Category
+ITTN099901,Roopali Chopra,180972,27-09-2021,03-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103212,Roopali Chopra,180972,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110599,Roopali Chopra,180972,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110600,Roopali Chopra,180972,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110601,Roopali Chopra,180972,25-10-2021,31-10-2021,16,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110602,Roopali Chopra,180972,01-11-2021,07-11-2021,32,0,5,2,Draft,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099901,Roopali Chopra,180972,27-09-2021,03-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN110601,Roopali Chopra,180972,25-10-2021,31-10-2021,24,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN072556,Kulbhushan Taneja,185031,01-11-2021,07-11-2021,25,0,5,2,Awaiting Approval,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN101373,Kulbhushan Taneja,185031,27-09-2021,03-10-2021,10,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN103929,Kulbhushan Taneja,185031,04-10-2021,10-10-2021,15,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN106199,Kulbhushan Taneja,185031,11-10-2021,17-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN110005,Kulbhushan Taneja,185031,18-10-2021,24-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN110007,Kulbhushan Taneja,185031,25-10-2021,31-10-2021,20,0,5,2,Awaiting Approval,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN072558,Kulbhushan Taneja,185031,08-11-2021,14-11-2021,40,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN069300,Neha Garg,186958,11-10-2021,17-10-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069380,Neha Garg,186958,18-10-2021,24-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069417,Neha Garg,186958,25-10-2021,31-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069541,Neha Garg,186958,01-11-2021,07-11-2021,48,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069596,Neha Garg,186958,08-11-2021,14-11-2021,64,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069605,Neha Garg,186958,15-11-2021,21-11-2021,48,0,5,2,Draft,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN103951,Neha Garg,186958,27-09-2021,03-10-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN103955,Neha Garg,186958,04-10-2021,10-10-2021,120,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069380,Neha Garg,186958,18-10-2021,24-10-2021,16,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN103951,Neha Garg,186958,27-09-2021,03-10-2021,8,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN069300,Neha Garg,186958,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN069541,Neha Garg,186958,01-11-2021,07-11-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN074955,Deepu Kumar,191303,01-11-2021,07-11-2021,16,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN075004,Deepu Kumar,191303,08-11-2021,14-11-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN099465,Deepu Kumar,191303,11-10-2021,17-10-2021,32,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN101321,Deepu Kumar,191303,27-09-2021,03-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN101323,Deepu Kumar,191303,04-10-2021,10-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN107412,Deepu Kumar,191303,18-10-2021,24-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN109001,Deepu Kumar,191303,25-10-2021,31-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN074955,Deepu Kumar,191303,01-11-2021,07-11-2021,8,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN074955,Deepu Kumar,191303,01-11-2021,07-11-2021,16,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN099465,Deepu Kumar,191303,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN059185,Pola Srinivasa Rao,197226,01-11-2021,07-11-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN059188,Pola Srinivasa Rao,197226,25-10-2021,31-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105794,Pola Srinivasa Rao,197226,04-10-2021,10-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105795,Pola Srinivasa Rao,197226,11-10-2021,17-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105796,Pola Srinivasa Rao,197226,27-09-2021,03-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105731,Pulkit Choudhary,198792,27-09-2021,03-10-2021,45,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN056496,Lhore Bansal,203304,15-11-2021,21-11-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN068263,Lhore Bansal,203304,27-09-2021,03-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN069818,Lhore Bansal,203304,08-11-2021,14-11-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN077860,Lhore Bansal,203304,22-11-2021,28-11-2021,40,0,5,2,Awaiting Approval,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN100587,Lhore Bansal,203304,04-10-2021,10-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN103981,Lhore Bansal,203304,11-10-2021,17-10-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN107112,Lhore Bansal,203304,18-10-2021,24-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN108945,Lhore Bansal,203304,25-10-2021,31-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN111443,Lhore Bansal,203304,01-11-2021,07-11-2021,16,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN111443,Lhore Bansal,203304,01-11-2021,07-11-2021,32,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN103981,Lhore Bansal,203304,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN061045,Pethusamy Venkatachalam,601143,15-11-2021,21-11-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN067710,Pethusamy Venkatachalam,601143,27-09-2021,03-10-2021,24,0,5,2,Draft,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN100271,Pethusamy Venkatachalam,601143,04-10-2021,10-10-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN103061,Pethusamy Venkatachalam,601143,11-10-2021,17-10-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN106130,Pethusamy Venkatachalam,601143,18-10-2021,24-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN108090,Pethusamy Venkatachalam,601143,25-10-2021,31-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN110011,Pethusamy Venkatachalam,601143,01-11-2021,07-11-2021,24,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN111398,Pethusamy Venkatachalam,601143,08-11-2021,14-11-2021,40,0,5,2,Draft,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN067710,Pethusamy Venkatachalam,601143,27-09-2021,03-10-2021,0,0,5,2,Draft,Leave_India,Ajay Dheer,180799,NA
+ITTN100271,Pethusamy Venkatachalam,601143,04-10-2021,10-10-2021,8,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN103061,Pethusamy Venkatachalam,601143,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN110011,Pethusamy Venkatachalam,601143,01-11-2021,07-11-2021,16,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN102435,S Saravanan,601191,27-09-2021,03-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN102436,S Saravanan,601191,04-10-2021,10-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN102437,S Saravanan,601191,11-10-2021,17-10-2021,24,0,5,2,Draft,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN102439,S Saravanan,601191,11-10-2021,17-10-2021,24,0,5,2,Draft,Investment,Nirmal Mohansingh Rajput,602871,CET
+IITN018851,Afrozy Ara,601309,11-10-2021,17-10-2021,20,0,5,2,Awaiting Approval,Digital User Experience,Afrozy Ara,601309,Digital
+IITN014356,Swapnagandha Bhausaheb Gite,601439,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,Investment Operations,Swapnagandha Bhausaheb Gite,601439,Enterprise Platforms
+IITN014372,Swapnagandha Bhausaheb Gite,601439,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,Investment Operations,Swapnagandha Bhausaheb Gite,601439,Enterprise Platforms
+IITN014378,Swapnagandha Bhausaheb Gite,601439,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,Investment Operations,Swapnagandha Bhausaheb Gite,601439,Enterprise Platforms
+IITN014266,Johannes  A  Kronenberg,601835,01-11-2021,07-11-2021,20,0,5,2,Draft,Integrated Digital Insights Squad,Udit Agarwal,603516,Data
+IITN019142,Johannes  A  Kronenberg,601835,25-10-2021,31-10-2021,20,0,5,2,Draft,Integrated Digital Insights Squad,Udit Agarwal,603516,Data
+IITN019687,Johannes  A  Kronenberg,601835,08-11-2021,14-11-2021,20,0,5,2,Draft,Integrated Digital Insights Squad,Udit Agarwal,603516,Data
+IITN018600,Johannes  A  Kronenberg,601835,11-10-2021,17-10-2021,16,0,5,2,Approved,Leave_US,Ajay Dheer,180799,NA
+ITTN070630,Sandeep Kumar Yadav,602042,01-11-2021,07-11-2021,9,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN071544,Sandeep Kumar Yadav,602042,08-11-2021,14-11-2021,45,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN078308,Sandeep Kumar Yadav,602042,15-11-2021,21-11-2021,36,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN078313,Sandeep Kumar Yadav,602042,22-11-2021,28-11-2021,45,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN093753,Sandeep Kumar Yadav,602042,27-09-2021,03-10-2021,36,0,5,2,Approved,IT Platforms,Pulkit Choudhary,198792,Digital
+ITTN101287,Sandeep Kumar Yadav,602042,04-10-2021,10-10-2021,27,0,5,2,Approved,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN106190,Sandeep Kumar Yadav,602042,11-10-2021,17-10-2021,36,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN107388,Sandeep Kumar Yadav,602042,18-10-2021,24-10-2021,36,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN110013,Sandeep Kumar Yadav,602042,25-10-2021,31-10-2021,36,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,198792,CET
+ITTN104538,A P Venkatesh,602136,04-10-2021,10-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105339,A P Venkatesh,602136,25-10-2021,31-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105340,A P Venkatesh,602136,27-09-2021,03-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN109329,A P Venkatesh,602136,11-10-2021,17-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN109330,A P Venkatesh,602136,18-10-2021,24-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN110061,A P Venkatesh,602136,01-11-2021,07-11-2021,40,0,5,2,Approved,Batch Processing,Kulbhushan Taneja,185031,Data
+ITTN067934,Gaurav Sharma,602200,27-09-2021,03-10-2021,24,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN068534,Gaurav Sharma,602200,08-11-2021,14-11-2021,12,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN068536,Gaurav Sharma,602200,25-10-2021,31-10-2021,16,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN077100,Gaurav Sharma,602200,15-11-2021,21-11-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN077104,Gaurav Sharma,602200,22-11-2021,28-11-2021,20,0,5,2,Draft,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN103278,Gaurav Sharma,602200,04-10-2021,10-10-2021,16,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN103281,Gaurav Sharma,602200,11-10-2021,17-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN105603,Gaurav Sharma,602200,18-10-2021,24-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN109560,Gaurav Sharma,602200,01-11-2021,07-11-2021,12,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN066841,Maheswaran A,602234,27-09-2021,03-10-2021,16,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN102370,Maheswaran A,602234,04-10-2021,10-10-2021,24,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN106868,Maheswaran A,602234,18-10-2021,24-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN106869,Maheswaran A,602234,11-10-2021,17-10-2021,32,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN110876,Maheswaran A,602234,01-11-2021,07-11-2021,24,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN110877,Maheswaran A,602234,25-10-2021,31-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN066841,Maheswaran A,602234,27-09-2021,03-10-2021,24,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN102370,Maheswaran A,602234,04-10-2021,10-10-2021,16,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN106869,Maheswaran A,602234,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN110876,Maheswaran A,602234,01-11-2021,07-11-2021,16,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN072148,Rohit Verma,602325,04-10-2021,10-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN072155,Rohit Verma,602325,11-10-2021,17-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN072160,Rohit Verma,602325,18-10-2021,24-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN072174,Rohit Verma,602325,25-10-2021,31-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN072176,Rohit Verma,602325,01-11-2021,07-11-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN072180,Rohit Verma,602325,08-11-2021,14-11-2021,24,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN104656,Rohit Verma,602325,27-09-2021,03-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN025197,Ram Karan,602349,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN101815,Ram Karan,602349,27-09-2021,03-10-2021,40,0,5,2,Approved,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN103201,Ram Karan,602349,04-10-2021,10-10-2021,40,0,5,2,Approved,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN109843,Ram Karan,602349,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN109846,Ram Karan,602349,25-10-2021,31-10-2021,32,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN109854,Ram Karan,602349,11-10-2021,17-10-2021,24,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN109856,Ram Karan,602349,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,CET Applications Support,Pulkit Choudhary,602643,CET
+ITTN109846,Ram Karan,602349,25-10-2021,31-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN109854,Ram Karan,602349,11-10-2021,17-10-2021,16,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN044711,Jitender Sharma,602557,15-11-2021,21-11-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN044715,Jitender Sharma,602557,22-11-2021,28-11-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN063387,Jitender Sharma,602557,01-11-2021,07-11-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN063670,Jitender Sharma,602557,08-11-2021,14-11-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN101384,Jitender Sharma,602557,27-09-2021,03-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN101385,Jitender Sharma,602557,04-10-2021,10-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN106981,Jitender Sharma,602557,11-10-2021,17-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN106982,Jitender Sharma,602557,18-10-2021,24-10-2021,40,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN108540,Jitender Sharma,602557,25-10-2021,31-10-2021,20,0,5,2,Approved,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN068733,Sumit Chopra,602632,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,IT Platforms,Pulkit Choudhary,198792,Digital
+ITTN068775,Sumit Chopra,602632,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,IT Platforms,Pulkit Choudhary,198792,Digital
+ITTN068779,Sumit Chopra,602632,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,IT Platforms,Pulkit Choudhary,198792,Digital
+ITTN068780,Sumit Chopra,602632,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,IT Platforms,Pulkit Choudhary,198792,Digital
+ITTN068781,Sumit Chopra,602632,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,IT Platforms,Pulkit Choudhary,198792,Digital
+ITTN071850,B B Agrawal,602643,27-09-2021,03-10-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,,Data
+ITTN071045,Ravneet Singh,602655,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077281,Ravneet Singh,602655,15-11-2021,21-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN078506,Ravneet Singh,602655,22-11-2021,28-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100361,Ravneet Singh,602655,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101274,Ravneet Singh,602655,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105334,Ravneet Singh,602655,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107385,Ravneet Singh,602655,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108667,Ravneet Singh,602655,25-10-2021,31-10-2021,24,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110713,Ravneet Singh,602655,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077281,Ravneet Singh,602655,15-11-2021,21-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN108667,Ravneet Singh,602655,25-10-2021,31-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN108667,Ravneet Singh,602655,25-10-2021,31-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN078506,Ravneet Singh,602655,22-11-2021,28-11-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN058529,Ram Sunder Singh Kushwaha,602661,15-11-2021,21-11-2021,32,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN070824,Ram Sunder Singh Kushwaha,602661,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN075568,Ram Sunder Singh Kushwaha,602661,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN078450,Ram Sunder Singh Kushwaha,602661,22-11-2021,28-11-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN101272,Ram Sunder Singh Kushwaha,602661,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN102647,Ram Sunder Singh Kushwaha,602661,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN105182,Ram Sunder Singh Kushwaha,602661,11-10-2021,17-10-2021,24,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN107230,Ram Sunder Singh Kushwaha,602661,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN110522,Ram Sunder Singh Kushwaha,602661,01-11-2021,07-11-2021,16,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN105182,Ram Sunder Singh Kushwaha,602661,11-10-2021,17-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN110522,Ram Sunder Singh Kushwaha,602661,01-11-2021,07-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN058529,Ram Sunder Singh Kushwaha,602661,15-11-2021,21-11-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN105182,Ram Sunder Singh Kushwaha,602661,11-10-2021,17-10-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN110522,Ram Sunder Singh Kushwaha,602661,01-11-2021,07-11-2021,16,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN063438,Rahul Rawat,602672,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100367,Rahul Rawat,602672,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102034,Rahul Rawat,602672,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105388,Rahul Rawat,602672,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107616,Rahul Rawat,602672,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109378,Rahul Rawat,602672,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110766,Rahul Rawat,602672,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN063584,Rishabh Sharma,602673,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN070314,Rishabh Sharma,602673,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN078520,Rishabh Sharma,602673,22-11-2021,28-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099780,Rishabh Sharma,602673,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101960,Rishabh Sharma,602673,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105350,Rishabh Sharma,602673,11-10-2021,17-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107571,Rishabh Sharma,602673,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109348,Rishabh Sharma,602673,25-10-2021,31-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110646,Rishabh Sharma,602673,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105350,Rishabh Sharma,602673,11-10-2021,17-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN109348,Rishabh Sharma,602673,25-10-2021,31-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN078520,Rishabh Sharma,602673,22-11-2021,28-11-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN100595,Ishwar Chauhan,602682,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN100956,Ishwar Chauhan,602682,11-10-2021,17-10-2021,32,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN101851,Ishwar Chauhan,602682,04-10-2021,10-10-2021,40,0,5,2,Approved,Investment,Nirmal Mohansingh Rajput,602871,CET
+ITTN108430,Ishwar Chauhan,602682,25-10-2021,31-10-2021,24,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN109165,Ishwar Chauhan,602682,18-10-2021,24-10-2021,24,0,5,2,Awaiting Approval,Digital Applications,Manoj Kumar,603857,Digital
+ITTN108430,Ishwar Chauhan,602682,25-10-2021,31-10-2021,16,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN109165,Ishwar Chauhan,602682,18-10-2021,24-10-2021,16,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN100956,Ishwar Chauhan,602682,11-10-2021,17-10-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN103691,Divya Taneja,602690,27-09-2021,03-10-2021,23,0,5,2,Awaiting Approval,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN103692,Divya Taneja,602690,04-10-2021,10-10-2021,23,0,5,2,Awaiting Approval,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN103693,Divya Taneja,602690,11-10-2021,17-10-2021,23,0,5,2,Awaiting Approval,AssetMark Infra Services,Jitender Sharma,602557,Enterprise Platforms
+ITTN100731,Rupesh Dnyaneshwar Ninawe,602703,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100732,Rupesh Dnyaneshwar Ninawe,602703,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105222,Rupesh Dnyaneshwar Ninawe,602703,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108392,Rupesh Dnyaneshwar Ninawe,602703,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108611,Rupesh Dnyaneshwar Ninawe,602703,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109718,Rupesh Dnyaneshwar Ninawe,602703,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN060769,Sandeep Kumar,602712,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN070075,Sandeep Kumar,602712,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN078498,Sandeep Kumar,602712,22-11-2021,28-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100339,Sandeep Kumar,602712,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101258,Sandeep Kumar,602712,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105276,Sandeep Kumar,602712,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107253,Sandeep Kumar,602712,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109210,Sandeep Kumar,602712,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110649,Sandeep Kumar,602712,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN078498,Sandeep Kumar,602712,22-11-2021,28-11-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN069917,Himanshu Shrivastava,602714,15-11-2021,21-11-2021,33,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072716,Himanshu Shrivastava,602714,08-11-2021,14-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102187,Himanshu Shrivastava,602714,04-10-2021,10-10-2021,41,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105478,Himanshu Shrivastava,602714,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107696,Himanshu Shrivastava,602714,18-10-2021,24-10-2021,42,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109435,Himanshu Shrivastava,602714,25-10-2021,31-10-2021,42,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110842,Himanshu Shrivastava,602714,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN069917,Himanshu Shrivastava,602714,15-11-2021,21-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN072716,Himanshu Shrivastava,602714,08-11-2021,14-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN099890,Himanshu Shrivastava,602714,27-09-2021,03-10-2021,40,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN069807,Himank,602738,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071947,Himank,602738,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099885,Himank,602738,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102098,Himank,602738,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105515,Himank,602738,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109452,Himank,602738,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110603,Himank,602738,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108303,Himank,602738,18-10-2021,24-10-2021,40,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN057902,Himanshu Gupta,602741,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN057921,Himanshu Gupta,602741,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN059547,Himanshu Gupta,602741,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102200,Himanshu Gupta,602741,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103642,Himanshu Gupta,602741,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105497,Himanshu Gupta,602741,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107708,Himanshu Gupta,602741,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109470,Himanshu Gupta,602741,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN032437,Adesh Kumar Srivastava,602744,01-11-2021,07-11-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN099767,Adesh Kumar Srivastava,602744,27-09-2021,03-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN106345,Adesh Kumar Srivastava,602744,11-10-2021,17-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN032437,Adesh Kumar Srivastava,602744,01-11-2021,07-11-2021,8,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN032437,Adesh Kumar Srivastava,602744,01-11-2021,07-11-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN069371,Farough Azam Khan,602750,15-11-2021,21-11-2021,26,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099892,Farough Azam Khan,602750,27-09-2021,03-10-2021,42,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102145,Farough Azam Khan,602750,04-10-2021,10-10-2021,41.5,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105484,Farough Azam Khan,602750,11-10-2021,17-10-2021,42,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108316,Farough Azam Khan,602750,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109448,Farough Azam Khan,602750,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110845,Farough Azam Khan,602750,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN075613,Birender Singha,602768,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100457,Birender Singha,602768,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102179,Birender Singha,602768,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110854,Birender Singha,602768,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106415,Birender Singha,602768,11-10-2021,17-10-2021,40,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN070671,Gaurav Pandey,602790,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077242,Gaurav Pandey,602790,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099799,Gaurav Pandey,602790,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102060,Gaurav Pandey,602790,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106470,Gaurav Pandey,602790,11-10-2021,17-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107209,Gaurav Pandey,602790,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109373,Gaurav Pandey,602790,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110652,Gaurav Pandey,602790,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071901,Jyoti Bajaj,602849,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN075575,Jyoti Bajaj,602849,15-11-2021,21-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099778,Jyoti Bajaj,602849,27-09-2021,03-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102133,Jyoti Bajaj,602849,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105477,Jyoti Bajaj,602849,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108305,Jyoti Bajaj,602849,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109429,Jyoti Bajaj,602849,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110835,Jyoti Bajaj,602849,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN075575,Jyoti Bajaj,602849,15-11-2021,21-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN099778,Jyoti Bajaj,602849,27-09-2021,03-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN042916,Rahul Kumar Singh,602853,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN067027,Rahul Kumar Singh,602853,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071877,Rahul Kumar Singh,602853,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099798,Rahul Kumar Singh,602853,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102101,Rahul Kumar Singh,602853,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106596,Rahul Kumar Singh,602853,11-10-2021,17-10-2021,16,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107576,Rahul Kumar Singh,602853,18-10-2021,24-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109371,Rahul Kumar Singh,602853,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106596,Rahul Kumar Singh,602853,11-10-2021,17-10-2021,24,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN107576,Rahul Kumar Singh,602853,18-10-2021,24-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN062143,Yash Srivastava,602855,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071876,Yash Srivastava,602855,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099803,Yash Srivastava,602855,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101425,Yash Srivastava,602855,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105493,Yash Srivastava,602855,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107612,Yash Srivastava,602855,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109985,Yash Srivastava,602855,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110906,Yash Srivastava,602855,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN042377,Dhiraj Gupta,602866,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN074692,Dhiraj Gupta,602866,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077023,Dhiraj Gupta,602866,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077024,Dhiraj Gupta,602866,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103057,Dhiraj Gupta,602866,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106348,Dhiraj Gupta,602866,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108189,Dhiraj Gupta,602866,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109778,Dhiraj Gupta,602866,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN062022,Nirmal Mohansingh Rajput,602871,15-11-2021,21-11-2021,32,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN074263,Nirmal Mohansingh Rajput,602871,27-09-2021,03-10-2021,40,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN078454,Nirmal Mohansingh Rajput,602871,22-11-2021,28-11-2021,40,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN101131,Nirmal Mohansingh Rajput,602871,04-10-2021,10-10-2021,40,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN104947,Nirmal Mohansingh Rajput,602871,11-10-2021,17-10-2021,32,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN107081,Nirmal Mohansingh Rajput,602871,18-10-2021,24-10-2021,40,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN109988,Nirmal Mohansingh Rajput,602871,25-10-2021,31-10-2021,16,0,5,2,Approved,eSigna,Nirmal Mohansingh Rajput,602871,Enterprise Platforms
+ITTN071270,Nirmal Mohansingh Rajput,602871,08-11-2021,14-11-2021,40,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN109988,Nirmal Mohansingh Rajput,602871,25-10-2021,31-10-2021,24,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN109990,Nirmal Mohansingh Rajput,602871,01-11-2021,07-11-2021,24,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN062022,Nirmal Mohansingh Rajput,602871,15-11-2021,21-11-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN104947,Nirmal Mohansingh Rajput,602871,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN109990,Nirmal Mohansingh Rajput,602871,01-11-2021,07-11-2021,16,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN027252,Sanuj Kumar,602897,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN062103,Sanuj Kumar,602897,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072360,Sanuj Kumar,602897,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099874,Sanuj Kumar,602897,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101597,Sanuj Kumar,602897,04-10-2021,10-10-2021,24,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105331,Sanuj Kumar,602897,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107687,Sanuj Kumar,602897,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109237,Sanuj Kumar,602897,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101597,Sanuj Kumar,602897,04-10-2021,10-10-2021,16,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN063709,Mohd Rehan Haneef,602898,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072288,Mohd Rehan Haneef,602898,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101715,Mohd Rehan Haneef,602898,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103080,Mohd Rehan Haneef,602898,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106402,Mohd Rehan Haneef,602898,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107568,Mohd Rehan Haneef,602898,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109307,Mohd Rehan Haneef,602898,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110705,Mohd Rehan Haneef,602898,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN000898,Madhur Gera,602904,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN027739,Madhur Gera,602904,01-11-2021,07-11-2021,24,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN077722,Madhur Gera,602904,15-11-2021,21-11-2021,32,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN100406,Madhur Gera,602904,27-09-2021,03-10-2021,32,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN101757,Madhur Gera,602904,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN106203,Madhur Gera,602904,11-10-2021,17-10-2021,32,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN107554,Madhur Gera,602904,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN109375,Madhur Gera,602904,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,DevOps,Chandan Singh,180800,Digital
+ITTN100406,Madhur Gera,602904,27-09-2021,03-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN027739,Madhur Gera,602904,01-11-2021,07-11-2021,16,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN077722,Madhur Gera,602904,15-11-2021,21-11-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN106203,Madhur Gera,602904,11-10-2021,17-10-2021,8,0,5,2,Awaiting Approval,Holiday_India,Ajay Dheer,180799,NA
+ITTN005759,Akash Gaurav,602905,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072377,Akash Gaurav,602905,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099921,Akash Gaurav,602905,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102197,Akash Gaurav,602905,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105526,Akash Gaurav,602905,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107786,Akash Gaurav,602905,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109621,Akash Gaurav,602905,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN111285,Akash Gaurav,602905,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN104149,Parul Saxena,602920,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN104150,Parul Saxena,602920,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN069543,Mayank Kesarwani,602923,15-11-2021,21-11-2021,45.5,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071898,Mayank Kesarwani,602923,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102159,Mayank Kesarwani,602923,27-09-2021,03-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102160,Mayank Kesarwani,602923,04-10-2021,10-10-2021,41,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105485,Mayank Kesarwani,602923,11-10-2021,17-10-2021,40.5,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107638,Mayank Kesarwani,602923,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109397,Mayank Kesarwani,602923,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110819,Mayank Kesarwani,602923,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102159,Mayank Kesarwani,602923,27-09-2021,03-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN072850,Priyanka Katyal,602944,01-11-2021,07-11-2021,24,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099860,Priyanka Katyal,602944,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103647,Priyanka Katyal,602944,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105455,Priyanka Katyal,602944,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107666,Priyanka Katyal,602944,18-10-2021,24-10-2021,24,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110266,Priyanka Katyal,602944,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072850,Priyanka Katyal,602944,01-11-2021,07-11-2021,16,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN107666,Priyanka Katyal,602944,18-10-2021,24-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN107666,Priyanka Katyal,602944,18-10-2021,24-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN061536,Indranil Basu,602950,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071584,Indranil Basu,602950,08-11-2021,14-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN095452,Indranil Basu,602950,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101585,Indranil Basu,602950,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105766,Indranil Basu,602950,11-10-2021,17-10-2021,8,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107301,Indranil Basu,602950,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109224,Indranil Basu,602950,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110664,Indranil Basu,602950,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071584,Indranil Basu,602950,08-11-2021,14-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN105766,Indranil Basu,602950,11-10-2021,17-10-2021,32,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN099735,Shancy Varghese,602969,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101974,Shancy Varghese,602969,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105360,Shancy Varghese,602969,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109298,Shancy Varghese,602969,25-10-2021,31-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109300,Shancy Varghese,602969,18-10-2021,24-10-2021,16,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110707,Shancy Varghese,602969,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109298,Shancy Varghese,602969,25-10-2021,31-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN109300,Shancy Varghese,602969,18-10-2021,24-10-2021,24,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN060732,Tanika Jain,602970,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072286,Tanika Jain,602970,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099743,Tanika Jain,602970,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103280,Tanika Jain,602970,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105374,Tanika Jain,602970,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107552,Tanika Jain,602970,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108962,Tanika Jain,602970,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110651,Tanika Jain,602970,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102077,Pankaj Aghi,602971,27-09-2021,03-10-2021,24,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105194,Pankaj Aghi,602971,04-10-2021,10-10-2021,16,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105195,Pankaj Aghi,602971,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105196,Pankaj Aghi,602971,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105197,Pankaj Aghi,602971,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110829,Pankaj Aghi,602971,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110831,Pankaj Aghi,602971,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110832,Pankaj Aghi,602971,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102077,Pankaj Aghi,602971,27-09-2021,03-10-2021,16,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN105194,Pankaj Aghi,602971,04-10-2021,10-10-2021,24,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN003716,Mohd Sohaib Irshad,602973,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN063573,Mohd Sohaib Irshad,602973,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100861,Mohd Sohaib Irshad,602973,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100862,Mohd Sohaib Irshad,602973,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100863,Mohd Sohaib Irshad,602973,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100864,Mohd Sohaib Irshad,602973,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108722,Mohd Sohaib Irshad,602973,01-11-2021,07-11-2021,45,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108723,Mohd Sohaib Irshad,602973,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110253,Mohd Sohaib Irshad,602973,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110254,Mohd Sohaib Irshad,602973,22-11-2021,28-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071833,Mohammad Faisal,602975,08-11-2021,14-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN078341,Mohammad Faisal,602975,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100430,Mohammad Faisal,602975,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102986,Mohammad Faisal,602975,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105342,Mohammad Faisal,602975,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107375,Mohammad Faisal,602975,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN071833,Mohammad Faisal,602975,08-11-2021,14-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN075401,D Mahesh,602978,01-11-2021,07-11-2021,24,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN075619,D Mahesh,602978,08-11-2021,14-11-2021,32,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN077241,D Mahesh,602978,15-11-2021,21-11-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN101588,D Mahesh,602978,04-10-2021,10-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN106355,D Mahesh,602978,11-10-2021,17-10-2021,24,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN107313,D Mahesh,602978,25-10-2021,31-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN107432,D Mahesh,602978,18-10-2021,24-10-2021,40,0,5,2,Approved,HNW Reporting and Enhancements,B B Agrawal,602643,Data
+ITTN071292,D Mahesh,602978,27-09-2021,03-10-2021,8,0,5,2,Draft,Leave_India,Ajay Dheer,180799,NA
+ITTN075619,D Mahesh,602978,08-11-2021,14-11-2021,8,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN106355,D Mahesh,602978,11-10-2021,17-10-2021,8,0,5,2,Approved,Leave_India,Ajay Dheer,180799,NA
+ITTN075401,D Mahesh,602978,01-11-2021,07-11-2021,16,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN106355,D Mahesh,602978,11-10-2021,17-10-2021,8,0,5,2,Approved,Holiday_India,Ajay Dheer,180799,NA
+ITTN062009,Siddhant Gupta,602990,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN062157,Siddhant Gupta,602990,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN062182,Siddhant Gupta,602990,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN062211,Siddhant Gupta,602990,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101875,Siddhant Gupta,602990,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101877,Siddhant Gupta,602990,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107559,Siddhant Gupta,602990,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107561,Siddhant Gupta,602990,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN073313,Kiran Rawat,603004,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077326,Kiran Rawat,603004,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099994,Kiran Rawat,603004,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102421,Kiran Rawat,603004,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105748,Kiran Rawat,603004,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107620,Kiran Rawat,603004,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109476,Kiran Rawat,603004,25-10-2021,31-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN111211,Kiran Rawat,603004,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109476,Kiran Rawat,603004,25-10-2021,31-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN068177,Mohd. Amir,603009,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN068183,Mohd. Amir,603009,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN068190,Mohd. Amir,603009,22-11-2021,28-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099862,Mohd. Amir,603009,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102147,Mohd. Amir,603009,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105480,Mohd. Amir,603009,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107658,Mohd. Amir,603009,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109445,Mohd. Amir,603009,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110830,Mohd. Amir,603009,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN060827,Navjeet Singh,603047,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN069849,Navjeet Singh,603047,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN077077,Navjeet Singh,603047,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101038,Navjeet Singh,603047,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101398,Navjeet Singh,603047,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105385,Navjeet Singh,603047,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107296,Navjeet Singh,603047,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109194,Navjeet Singh,603047,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN062136,Rakesh Kumar Prasad,603048,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN072075,Rakesh Kumar Prasad,603048,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100490,Rakesh Kumar Prasad,603048,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN101439,Rakesh Kumar Prasad,603048,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105421,Rakesh Kumar Prasad,603048,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108198,Rakesh Kumar Prasad,603048,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110816,Rakesh Kumar Prasad,603048,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110818,Rakesh Kumar Prasad,603048,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN059476,Varun Jajoo,603049,08-11-2021,14-11-2021,48,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN059487,Varun Jajoo,603049,15-11-2021,21-11-2021,40,0,5,2,Draft,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN078417,Varun Jajoo,603049,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103373,Varun Jajoo,603049,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN104725,Varun Jajoo,603049,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108455,Varun Jajoo,603049,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109753,Varun Jajoo,603049,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110758,Varun Jajoo,603049,01-11-2021,07-11-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110758,Varun Jajoo,603049,01-11-2021,07-11-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN059559,Shivam Sharma,603061,08-11-2021,14-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN059562,Shivam Sharma,603061,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN099902,Shivam Sharma,603061,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102205,Shivam Sharma,603061,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105521,Shivam Sharma,603061,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN107711,Shivam Sharma,603061,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN109473,Shivam Sharma,603061,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100355,Supreet Singh,603069,27-09-2021,03-10-2021,32,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103592,Supreet Singh,603069,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN103595,Supreet Singh,603069,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN106140,Supreet Singh,603069,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN111393,Supreet Singh,603069,25-10-2021,31-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN111396,Supreet Singh,603069,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN100355,Supreet Singh,603069,27-09-2021,03-10-2021,8,0,5,2,Awaiting Approval,Leave_India,Ajay Dheer,180799,NA
+ITTN064151,Sumit Kumar,603071,15-11-2021,21-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN085912,Sumit Kumar,603071,27-09-2021,03-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN102146,Sumit Kumar,603071,04-10-2021,10-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN105492,Sumit Kumar,603071,11-10-2021,17-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN108212,Sumit Kumar,603071,18-10-2021,24-10-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
+ITTN110690,Sumit Kumar,603071,01-11-2021,07-11-2021,40,0,5,2,Awaiting Approval,AssetMark Backoffice,Rupesh Dnyaneshwar Ninawe,602703,CET
