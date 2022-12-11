@@ -1,0 +1,14 @@
+const { Router }=require("express");
+const router=new Router();
+const fooservice=require("../service/foo.service");
+const fooregbook=require("../service/foo.registerBook");
+const foogetbooks=require("../service/foo.getBooks");
+const fooupdatebook=require("../service/foo.updateBook");
+const foodeletebook=require("../service/foo.deleteBook");
+const foogetbook=require("../service/foo.getBook");
+router.get("/books",foogetbooks.getBooks);
+router.post("/books",fooregbook.reg);
+router.put("/books/:BookID",fooupdatebook.updateBook);
+router.delete("/books/:BookID",foodeletebook.deleteBook);
+router.get("/books/:BookID",foogetbook.getBook);
+module.exports=router;

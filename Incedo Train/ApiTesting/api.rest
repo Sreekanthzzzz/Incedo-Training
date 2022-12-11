@@ -1,0 +1,19 @@
+get http://localhost:3000/employees
+
+###
+get http://localhost:3000/employees/1002
+
+###
+post  http://localhost:3000/employees
+
+Content-Type: application/json
+{"id":1004,"ename":"David","job":"Trainer","salary":5900}
+
+###
+put  http://localhost:3000/employees/1002
+
+Content-Type: application/json
+{"id":1002,"ename":"Bhanu","job":"Progrmmer","salary":5900}
+
+###
+delete  http://localhost:3000/employees/1002
